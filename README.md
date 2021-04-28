@@ -1,6 +1,6 @@
 ### Hello world, I'm Martin 🤗
 
-## I'm a Javascript Fullstack Web Developer!! [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+## I'm a Javascript Fullstack Web Developer!! <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 🎓 I'm currently finalizing an intensive Bootcamp focused on MERN/PERN stack on [Henry][henry]
 
